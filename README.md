@@ -2,7 +2,7 @@
   
 # 👋 Hello World, I'm Riza!
 
-### Informatics Student | Web Developer | Tech Enthusiast
+### Informatics Student | Web Developer
 
 [![GitHub followers](https://img.shields.io/github/followers/notnoir?style=social)](https://github.com/notnoir)
 [![GitHub stars](https://img.shields.io/github/stars/notnoir?style=social)](https://github.com/notnoir)
@@ -76,9 +76,9 @@ Passionate **Informatics student** with a strong interest in web development and
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://profile-riza.vercel.app/)
 
 </div>
 
